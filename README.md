@@ -4,7 +4,7 @@
 Telegram: https://Telegram.me/feature_earning
 
 
-
+----
 
 ```console
 sudo apt update && sudo apt upgrade -y
